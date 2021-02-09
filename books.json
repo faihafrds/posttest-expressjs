@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "isbn": 12345,
+        "judul": "judul1",
+        "sinopsis": "sinopsis1",
+        "penulis": "penulis1",
+        "genre": "genre1"
+    },
+    {
+        "id": 2,
+        "isbn": 23456,
+        "judul": "judul2",
+        "sinopsis": "sinopsis2",
+        "penulis": "penulis2",
+        "genre": "genre2"
+    }
+]
